@@ -278,7 +278,7 @@ function App() {
             
             <div className="mt-16 flex items-center justify-center gap-2 text-gray-600 text-xs tracking-widest uppercase">
                 <Lock size={12} />
-                <span>Proposta Confidencial &copy; 2024 AION3</span>
+                <span>Proposta Confidencial &copy; 2025 AION3</span>
             </div>
         </div>
       </section>
